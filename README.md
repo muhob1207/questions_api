@@ -2,7 +2,7 @@
 
 1)clone this repository 
 
-2)Open terminal and navigate to the "projects" directory of "questions_api" directory
+2)Open terminal and navigate to the "project" directory of "questions_api" directory
 
 3)Make sure you have docker in your system and it is open
 
