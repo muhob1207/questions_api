@@ -4,6 +4,8 @@
 
 2)Open terminal and navigate to the "project" directory of "questions_api" directory
 
+Create a directory called "postgres_data" inside "project"
+
 3)Make sure you have docker in your system and it is open
 
 4)To install the necessary libraries write $ pip install -r requirements.txt
